@@ -18,11 +18,17 @@
 - This involves a Secret Network contract, solidity contract, IBC integration, and Axelar GMP integration.
 - BONUS: Build a contract that allows users to deposit SILK, and have the arbitrage bot utilize the deposited SILK for arbitrage, returning profits to the pool, and guaranteeing the arbitrage is profitable (LUNA’s White Whale style)
 
-### Sienna Protocol
-
-##### TBD
-
 ### SecretSwap 2.0
+
+- Build vaults for yearn like vaults on top of secretSwap 2.0 contracts that only take one asset and produce the yield in that asset only. One vault could be to deposit SCRT and will earn yield either from liquid staking, LPing into bSCRT/SCRT or seSCRT/SCRT pools or buying liquid staked assets bSCRT, seSCRT as discount from open market and unstaking to get profit in SCRT. Another vault could be to deposit in stables like axlUSDC and depositing into pools and getting yield in stables only.
+
+- Build arbitrage bots for anyone to do arbitrage b/w secretSwap pairs or even b/w pairs of multiple DEXs on Secret Network or even with IBC connected DEXs like Osmosis and Wynd.
+
+- Build an analytics dashboard for SecretSwap 2.0 contracts with proper indexing to showcase price, volume and yield history for individual pairs and for the overall DEX. Can be further extended to show user specific data such as assets value held over time, impermanent loss calculator etc.
+
+- A convex like protocol for ve gauges of secretSwap 2.0. Convex allows users to deposit their CRV token and get boosted rewards while having the option to withdraw anytime sacrificing on higher % of CRV emissions.
+
+### Sienna Protocol
 
 ##### TBD
 
