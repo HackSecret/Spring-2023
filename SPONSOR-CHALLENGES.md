@@ -38,4 +38,25 @@
 
 ### White Whale
 
-##### TBD
+#### Migaloo Chain
+- Build a convenience tool suite that allows users to, for example, airdrop to the Migaloo community or create tokens using the token factory.
+- Build a self-repaying-loan protocol that allows users to leverage against the future yield of any yield-bearing asset.
+- Build a decentralized name service for Migaloo.
+- Build a project incubator with a launchpad, crowdfunding, ICO, and liquidity bootstrapping.
+- Build a FUN game on Migaloo.
+- Build a stable coin native to the Migaloo ecosystem. The stablecoin could be overcollaterized by Whale or be algorithmically secured by its own token.
+- Build an index token protocol for the Alliance assets on Migaloo.
+- Build a a project funding service that allows users to lock their yield bearing assets to finance projects, teams, and effors using their staking rewads.
+
+#### White Whale Protocol
+- Modify our Smart Contracts to be compatible with SecretWasm.
+- Modify our Smart Contracts to be compatible with the EVM.
+- Modify our Frontend to be mobile compatible.
+- Build a general-purpose DCA Tool that allows users to trade in or out any token listed on any White Whale satellite market by directly integrating with the White Whale DEX Router on every given chain.
+- Build a market-making bot for pools on all White Whale satellite markets.
+
+#### MEV
+- Build a liquidtation bot for the Comdex Lending Market utilizing White Whale flashloans & pools.
+- Build a liquidtation bot for the Comdex Stablecoin Market utilizing White Whale flashloans & pools.
+- Build a arbitrage bot for the Comdex Orderbook utilizing White Whale flashloans & pools.
+- Build a interchain arbitrage bot that stabilizes ampWhale & boneWhale prices across all satellite markets.
