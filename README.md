@@ -6,6 +6,8 @@ This repository will provide an overview of all information required for [HackSe
 
 [View HackSecret Sponsor reference contracts here](./SPONSOR-REFERENCE-CONTRACTS.md) for examples of HOW to buidl
 
+[View Secret University Office Hours here](./OFFICE-HOURS.md)
+
 ## Rules TLDR - [official COC](https://drive.google.com/file/d/17wlPiavqjqBNFUA7Wyc0aPvZF1gfF2Wo/view?usp=sharing)
 
 1. Be nice to each other
