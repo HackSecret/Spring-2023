@@ -4,7 +4,7 @@ Note : We are not requesting front-end development work. All submissions, includ
 
 - FlashFreeze Loans: A flash loans contract on Blizzard Finance. Feel free to get creative in how it would work, or ask any questions, but we are intentionally leaving this open ended.
 - PermaFrost Perpetuals: Develop a perpetuals contract for seamless long and short trading on the Blizzard Finance. Feel free to get creative in how it would work, or ask any questions, but we are intentionally leaving this open ended.
-- Subzero Lending: Build a lending contract that deposits LP tokens into the Blizzard vault and allows users to borrow against it. Funds should be locked for the loan term. Should have dynamic interest rates based on collateral LP value. The rate starts at the lender's set amount and adjusts as collateral value changes, with a set floor. 
+- Subzero Lending: Build a lending contract that deposits LP tokens into the Blizzard vault and allows users to borrow against it. Funds should be locked for the loan term. Should have dynamic interest rates based on collateral LP value. The rate starts at the lender's set amount and adjusts as collateral value changes, with a set floor.
 - IceBound Options: Create an options contract on Blizzard Finance, enabling users to hedge risks or speculate on asset prices. Use pricing directly from Blizzard Vault. Feel free to get creative in how it would work, or ask any questions, but we are intentionally leaving this open ended.
 
 ### Shade Protocol
@@ -13,7 +13,6 @@ Note : We are not requesting front-end development work. All submissions, includ
 
 - Build a Yearn-style product that allows users to deposit SILK, and allow the creation of arbitrary strategies that can be plugged into the contract that utilize deposited funds to generate yield.
 - Implement Trader Joe’s Liquidity Book as a Secret Network contract that works with the ShadeSwap pool factory
-- Implement Pendle-style interest rate derivatives on Secret Network
 
 ##### Tier 2: Attract power users to conduct off-chain arbitrage activity on Secret Network
 
@@ -39,23 +38,24 @@ Note : We are not requesting front-end development work. All submissions, includ
 
 ### Sienna Protocol
 
-Instead of providing a pre-defined list of potential challenges for contestants, Sienna has opted to take a different approach. 
+Instead of providing a pre-defined list of potential challenges for contestants, Sienna has opted to take a different approach.
 
-Contestants are free to build whatever product(s) they deem as being supplementary to Sienna’s existing suite of DeFi apps, including SiennaSwap, SiennaLend, and SiennaLaunch. 
+Contestants are free to build whatever product(s) they deem as being supplementary to Sienna’s existing suite of DeFi apps, including SiennaSwap, SiennaLend, and SiennaLaunch.
 
-Winners will be picked based on creativity, utility, and functionality. 
+Winners will be picked based on creativity, utility, and functionality.
 
-Some examples to spur the creative process and get contestants thinking: 
+Some examples to spur the creative process and get contestants thinking:
 
 - Staking derivative for the SIENNA token.
-- Delta Neutral vaults for SiennaSwap/SiennaLend. 
-- A peer-to-peer escrow contract to sell unused SiennaLaunch IDO allocations. 
+- Delta Neutral vaults for SiennaSwap/SiennaLend.
+- A peer-to-peer escrow contract to sell unused SiennaLaunch IDO allocations.
 
 Good luck!
 
 ### White Whale
 
 #### Migaloo Chain
+
 - Build a convenience tool suite that allows users to, for example, airdrop to the Migaloo community or create tokens using the token factory.
 - Build a self-repaying-loan protocol that allows users to leverage against the future yield of any yield-bearing asset.
 - Build a decentralized name service for Migaloo.
@@ -66,6 +66,7 @@ Good luck!
 - Build a a project funding service that allows users to lock their yield bearing assets to finance projects, teams, and effors using their staking rewads.
 
 #### White Whale Protocol
+
 - Modify our Smart Contracts to be compatible with SecretWasm.
 - Modify our Smart Contracts to be compatible with the EVM.
 - Modify our Frontend to be mobile compatible.
@@ -73,6 +74,7 @@ Good luck!
 - Build a market-making bot for pools on all White Whale satellite markets.
 
 #### MEV
+
 - Build a liquidtation bot for the Comdex Lending Market utilizing White Whale flashloans & pools.
 - Build a liquidtation bot for the Comdex Stablecoin Market utilizing White Whale flashloans & pools.
 - Build a arbitrage bot for the Comdex Orderbook utilizing White Whale flashloans & pools.
