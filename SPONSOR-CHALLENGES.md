@@ -39,7 +39,18 @@ Note : We are not requesting front-end development work. All submissions, includ
 
 ### Sienna Protocol
 
-##### TBD
+Instead of providing a pre-defined list of potential challenges for contestants, Sienna has opted to take a different approach. 
+
+Contestants are free to build whatever product(s) they deem as being supplementary to Sienna’s existing suite of DeFi apps, including SiennaSwap, SiennaLend, and SiennaLaunch. 
+
+Winners will be picked based on creativity, utility, and functionality. 
+
+Some examples to spur the creative process and get contestants thinking: 
+-Staking derivative for the SIENNA token. 
+-Delta Neutral vaults for SiennaSwap/SiennaLend. 
+-A peer-to-peer escrow contract to sell unused SiennaLaunch IDO allocations. 
+
+Good luck!
 
 ### White Whale
 
