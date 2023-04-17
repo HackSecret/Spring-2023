@@ -1,8 +1,8 @@
 ### Blizzard Finance
 
-- FlashFreeze Loans: A flash loans contract on Blizzard Finance with dynamic interest rates based on collateral LP value. The rate starts at the lender's set amount and adjusts as collateral value changes, with a set floor. 
+- FlashFreeze Loans: A flash loans contract on Blizzard Finance. Feel free to get creative in how it would work, or ask any questions, but we are intentionally leaving this open ended.
 - PermaFrost Perpetuals: Develop a perpetuals contract for seamless long and short trading on the Blizzard Finance. Feel free to get creative in how it would work, or ask any questions, but we are intentionally leaving this open ended.
-- Subzero Lending: Build a lending contract that deposits LP tokens into the Blizzard vault and allows users to borrow against it. Funds should be locked for the loan term.
+- Subzero Lending: Build a lending contract that deposits LP tokens into the Blizzard vault and allows users to borrow against it. Funds should be locked for the loan term. Should have dynamic interest rates based on collateral LP value. The rate starts at the lender's set amount and adjusts as collateral value changes, with a set floor. 
 - IceBound Options: Create an options contract on Blizzard Finance, enabling users to hedge risks or speculate on asset prices. Use pricing directly from Blizzard Vault. Feel free to get creative in how it would work, or ask any questions, but we are intentionally leaving this open ended.
 
 ### Shade Protocol
