@@ -4,7 +4,7 @@ This repository will provide an overview of all information required for [HackSe
 
 [View HackSecret Sponsor challenges here](./SPONSOR-CHALLENGES.md) for ideas of what to buidl
 
-## Rules TLDR - (official COC)[]
+## Rules TLDR - (official COC)[https://drive.google.com/file/d/17wlPiavqjqBNFUA7Wyc0aPvZF1gfF2Wo/view?usp=sharing]
 
 1. Be nice to each other
 2. Submit Video, description and Code at end of Hackathon
