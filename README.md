@@ -10,6 +10,6 @@ This repository will provide an overview of all information required for [HackSe
 2. Submit Video, description and Code at end of Hackathon
 3. Choose 1 sponsor track to commit too, main prize is enrolled automatically
 4. Code is to be submitted under a (restrictive) open source license
-5. Questions at any time can be directed to SeanRad and Ertemann
+5. Maximum of 5 members per team
 
 And then again, Be nice to each other <3
