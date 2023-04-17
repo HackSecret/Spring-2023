@@ -46,9 +46,10 @@ Contestants are free to build whatever product(s) they deem as being supplementa
 Winners will be picked based on creativity, utility, and functionality. 
 
 Some examples to spur the creative process and get contestants thinking: 
--Staking derivative for the SIENNA token. 
--Delta Neutral vaults for SiennaSwap/SiennaLend. 
--A peer-to-peer escrow contract to sell unused SiennaLaunch IDO allocations. 
+
+- Staking derivative for the SIENNA token.
+- Delta Neutral vaults for SiennaSwap/SiennaLend. 
+- A peer-to-peer escrow contract to sell unused SiennaLaunch IDO allocations. 
 
 Good luck!
 
