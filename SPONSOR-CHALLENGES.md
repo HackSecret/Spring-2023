@@ -1,3 +1,10 @@
+### Blizzard Finance
+
+- FlashFreeze Loans: A flash loans contract on Blizzard Finance with dynamic interest rates based on collateral LP value. The rate starts at the lender's set amount and adjusts as collateral value changes, with a set floor. 
+- PermaFrost Perpetuals: Develop a perpetuals contract for seamless long and short trading on the Blizzard Finance platform.
+- Subzero Lending: Build a lending contract that deposits LP tokens into the Blizzard vault and allows users to borrow against it. Funds should be locked for the loan term.
+- IceBound Options: Create an options contract on Blizzard Finance, enabling users to hedge risks or speculate on asset prices. Use pricing directly from Blizzard Vault.
+
 ### Shade Protocol
 
 ##### Tier 1: Attract developers to Secret Network as potential hires; incentivize developers to build full products for Shade Protocol
@@ -29,10 +36,6 @@
 - A convex like protocol for ve gauges of secretSwap 2.0. Convex allows users to deposit their CRV token and get boosted rewards while having the option to withdraw anytime sacrificing on higher % of CRV emissions.
 
 ### Sienna Protocol
-
-##### TBD
-
-### Blizzard.Finance
 
 ##### TBD
 
