@@ -1,6 +1,7 @@
 ### Blizzard Finance
 
 Note : We are not requesting front-end development work. All submissions, including those that do not win, will be considered for additional prizes. Exceptional entries that go above and beyond may receive bonuses. Winners are expected to integrate Blizzard Finance deeply at their core in their final product. Please keep in mind that additional rewards are not guaranteed and will be determined at our discretion.
+
 - FlashFreeze Loans: A flash loans contract on Blizzard Finance. Feel free to get creative in how it would work, or ask any questions, but we are intentionally leaving this open ended.
 - PermaFrost Perpetuals: Develop a perpetuals contract for seamless long and short trading on the Blizzard Finance. Feel free to get creative in how it would work, or ask any questions, but we are intentionally leaving this open ended.
 - Subzero Lending: Build a lending contract that deposits LP tokens into the Blizzard vault and allows users to borrow against it. Funds should be locked for the loan term. Should have dynamic interest rates based on collateral LP value. The rate starts at the lender's set amount and adjusts as collateral value changes, with a set floor. 
