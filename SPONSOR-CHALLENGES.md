@@ -1,3 +1,12 @@
+### Blizzard Finance
+
+Note : We are not requesting front-end development work. All submissions, including those that do not win, will be considered for additional prizes. Exceptional entries that go above and beyond may receive bonuses. Winners are expected to integrate Blizzard Finance deeply at their core in their final product. Please keep in mind that additional rewards are not guaranteed and will be determined at our discretion.
+
+- FlashFreeze Loans: A flash loans contract on Blizzard Finance. Feel free to get creative in how it would work, or ask any questions, but we are intentionally leaving this open ended.
+- PermaFrost Perpetuals: Develop a perpetuals contract for seamless long and short trading on the Blizzard Finance. Feel free to get creative in how it would work, or ask any questions, but we are intentionally leaving this open ended.
+- Subzero Lending: Build a lending contract that deposits LP tokens into the Blizzard vault and allows users to borrow against it. Funds should be locked for the loan term. Should have dynamic interest rates based on collateral LP value. The rate starts at the lender's set amount and adjusts as collateral value changes, with a set floor. 
+- IceBound Options: Create an options contract on Blizzard Finance, enabling users to hedge risks or speculate on asset prices. Use pricing directly from Blizzard Vault. Feel free to get creative in how it would work, or ask any questions, but we are intentionally leaving this open ended.
+
 ### Shade Protocol
 
 ##### Tier 1: Attract developers to Secret Network as potential hires; incentivize developers to build full products for Shade Protocol
@@ -29,10 +38,6 @@
 - A convex like protocol for ve gauges of secretSwap 2.0. Convex allows users to deposit their CRV token and get boosted rewards while having the option to withdraw anytime sacrificing on higher % of CRV emissions.
 
 ### Sienna Protocol
-
-##### TBD
-
-### Blizzard.Finance
 
 ##### TBD
 
