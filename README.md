@@ -8,12 +8,19 @@ This repository will provide an overview of all information required for [HackSe
 
 [View Secret University Office Hours here](./OFFICE-HOURS.md)
 
+[View Submission Guidelines here]
+
 ## Rules TLDR - [official COC](https://drive.google.com/file/d/17wlPiavqjqBNFUA7Wyc0aPvZF1gfF2Wo/view?usp=sharing)
 
 1. Be nice to each other
-2. Submit Video, description and Code at end of Hackathon
+2. Submit Video, description and Code at end of Hackathon - See submission guidelines here.
 3. Choose 1 sponsor track to commit too, main prize is enrolled automatically
 4. Code is to be submitted under a (restrictive) open source license
 5. Maximum of 5 members per team
+6. Submit your team (preferably before Friday 21st of April) via: https://forms.monday.com/forms/eddf61606750e98adfa1a09273031f0e?r=use1
 
 And then again, Be nice to each other <3
+
+## Workshop/event recordings
+
+Opening day Kickoff - [PDF]()
