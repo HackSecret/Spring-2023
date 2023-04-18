@@ -41,6 +41,7 @@ This is cool to build on Secret as you could potentially hide the liquidity ente
 
 ### Stablecoin/Defi insurance
 
+Depeg insurance for current LSD and Stable coins similar to for ex: https://www.y2k.finance/
 
 ### Yield trading protocol
 
