@@ -1,6 +1,6 @@
 # HackSecret | Spring 2023
 
-This repository will provide an overview of all information required for [HackSecret 2023 Spring](https://scrt.network/hacksecret-2023)
+This repository will provide an overview of all information required for [HackSecret 2023 Spring](https://scrt.network/hacksecret-2023) - Submissions are still open!
 
 ## Links
 
@@ -25,8 +25,8 @@ This repository will provide an overview of all information required for [HackSe
 
 And then again, Be nice to each other <3
 
-[official COC](https://drive.google.com/file/d/17wlPiavqjqBNFUA7Wyc0aPvZF1gfF2Wo/view?usp=sharing)
+For the entire reuleset please refer to the [official COC](https://drive.google.com/file/d/17wlPiavqjqBNFUA7Wyc0aPvZF1gfF2Wo/view?usp=sharing)
 
 ## Workshop/event recordings
 
-Opening day Kickoff - [PDF](./presentations/HackSecret presentation.pdf)
+Opening day Kickoff - [PDF](https://github.com/HackSecret/Spring-2023/blob/main/presentations/HackSecret%20presentation.pdf) , Recording
