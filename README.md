@@ -21,7 +21,7 @@ This repository will provide an overview of all information required for [HackSe
 3. Choose 1 sponsor track to commit too, main prize is enrolled automatically
 4. Code is to be submitted under a (restrictive) open source license
 5. Maximum of 5 members per team
-6. Submit your team (preferably before Friday 21st of April) via: https://forms.monday.com/forms/eddf61606750e98adfa1a09273031f0e?r=use1
+6. Submit your team (preferably before Friday 21st of April) via [this form](https://forms.monday.com/forms/eddf61606750e98adfa1a09273031f0e?r=use1)
 
 And then again, Be nice to each other <3
 
