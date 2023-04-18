@@ -12,7 +12,7 @@ Submissions wont open until friday may 12th, a form will be shared then with exa
   - "Development Deepdive" - How did you build this, how do the contracts/functions interact and which design choices did you make.
 3. The full code of your back and frontend under a (restrictive) open source license
 
-### presentation
+### Presentation/Demo
 Additionally we will ask all teams to pick a timeslot in the last week of the hackathon to present their creation. This presentation will be in a 15 min lightning format where you are expected to cover "Problem", "solution" and "Design" in 15 minutes with an additional 10 minutes for Jury questions.
 
 ### Prize selection
