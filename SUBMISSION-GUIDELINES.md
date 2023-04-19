@@ -8,9 +8,9 @@ Submissions wont open until friday may 12th, a form will be shared then with exa
 1. A video/Demo of your product, preferably contracts have a usable UI/Mockup to be shown.
 2. A written description (max 2 pages, as Readme.md in your repository) covering:
   - "User focused summary" of the created product (talk about what it does)
-  - "Investor pitch" - What is the problem it solves or PMF it
+  - "Investor pitch" - What is the problem it solves and where is the PMF?
   - "Development Deepdive" - How did you build this, how do the contracts/functions interact and which design choices did you make.
-3. The full code of your back and frontend under a (restrictive) open source license
+3. The full code of your back and frontend under a (restrictive/permissive) open source license
 
 NOTE: The jury will compile the codebase and only judge protocols that properly compile with the listed dependencies, this also accounts for UIs or other product deliverables. Adding Tests to your codebase is preffered.
 
