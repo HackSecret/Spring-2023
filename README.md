@@ -30,3 +30,5 @@ For the entire reuleset please refer to the [official COC](https://drive.google.
 ## Workshop/event recordings
 
 Opening day Kickoff - [PDF](https://github.com/HackSecret/Spring-2023/blob/main/presentations/HackSecret%20presentation.pdf) , Recording
+Tokenomics/Defi 3.0 W/ Waffle - [PDF](https://github.com/HackSecret/Spring-2023/blob/main/presentations/DeFi%20and%20tokenomics%20(2).pdf), Recording
+WhiteWhale Showcase - [PDF](https://github.com/HackSecret/Spring-2023/blob/main/presentations/Sen%20Com%20Presentation.pdf)
