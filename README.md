@@ -17,9 +17,9 @@ This repository will provide an overview of all information required for [HackSe
 ## Rules summary
 
 1. Be nice to each other
-2. Submit Video, description and Code at end of Hackathon - See submission guidelines here.
-3. Choose 1 sponsor track to commit too, main prize is enrolled automatically
-4. Code is to be submitted under a (restrictive) open source license
+2. Submit Video, description and Code at end of Hackathon - See submission guidelines [here](./SUBMISSION-GUIDELINES.md).
+3. Choose 1 sponsor track to commit too, main prize is enrolled automatically (Only if a Secret contract is created or called)
+4. Code is to be submitted under a (restrictive/permissive) open source license
 5. Maximum of 5 members per team
 6. Submit your team (preferably before Friday 21st of April) via [this form](https://forms.monday.com/forms/eddf61606750e98adfa1a09273031f0e?r=use1)
 
