@@ -14,6 +14,8 @@ This repository will provide an overview of all information required for [HackSe
 
 [View Schedule here](https://view.monday.com/4123545935-38ca584629e98f040c62355d7b2574ba?r=use1) -- Learn from workshops and showcases
 
+[View Recorded workshops here](https://www.youtube.com/@SCRT_agency)
+
 ## Rules summary
 
 1. Be nice to each other
@@ -25,10 +27,12 @@ This repository will provide an overview of all information required for [HackSe
 
 And then again, Be nice to each other <3
 
-For the entire reuleset please refer to the [official COC](https://drive.google.com/file/d/17wlPiavqjqBNFUA7Wyc0aPvZF1gfF2Wo/view?usp=sharing)
+For the entire ruleset please refer to the [official code of conduct](https://drive.google.com/file/d/17wlPiavqjqBNFUA7Wyc0aPvZF1gfF2Wo/view?usp=sharing)
 
 ## Workshop/event recordings
 
-- Opening day Kickoff - [PDF](https://github.com/HackSecret/Spring-2023/blob/main/presentations/HackSecret%20presentation.pdf) , Recording
-- Tokenomics/Defi 3.0 W/ Waffle - [PDF](https://github.com/HackSecret/Spring-2023/blob/main/presentations/DeFi%20and%20tokenomics%20(2).pdf), Recording
-- WhiteWhale Showcase - [PDF](https://github.com/HackSecret/Spring-2023/blob/main/presentations/Sen%20Com%20Presentation.pdf)
+- Opening day Kickoff - [PDF](https://github.com/HackSecret/Spring-2023/blob/main/presentations/HackSecret%20presentation.pdf), [Recording](https://www.youtube.com/watch?v=OfwBLgvT5J4&ab_channel=TheSecretAgency)
+- Tokenomics/Defi 3.0 W/ Waffle - [PDF](<https://github.com/HackSecret/Spring-2023/blob/main/presentations/DeFi%20and%20tokenomics%20(2).pdf>), [Recording](https://www.youtube.com/watch?v=1PCb_1wVJio&ab_channel=TheSecretAgency)
+- WhiteWhale Showcase - [PDF](https://github.com/HackSecret/Spring-2023/blob/main/presentations/Sen%20Com%20Presentation.pdf), [Recording](https://www.youtube.com/watch?v=8ngamf_6Hqw&ab_channel=TheSecretAgency)
+- ShadeSwap Showcase [Recording](https://www.youtube.com/watch?v=vHW0p2mIaHE&ab_channel=TheSecretAgency)
+- Sienna Network Showcase [Recording](https://www.youtube.com/watch?v=AP4FBo-vWcY&ab_channel=TheSecretAgency)
