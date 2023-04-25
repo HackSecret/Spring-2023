@@ -34,5 +34,6 @@ For the entire ruleset please refer to the [official code of conduct](https://dr
 - Opening day Kickoff - [PDF](https://github.com/HackSecret/Spring-2023/blob/main/presentations/HackSecret%20presentation.pdf), [Recording](https://www.youtube.com/watch?v=OfwBLgvT5J4&ab_channel=TheSecretAgency)
 - Tokenomics/Defi 3.0 W/ Waffle - [PDF](<https://github.com/HackSecret/Spring-2023/blob/main/presentations/DeFi%20and%20tokenomics%20(2).pdf>), [Recording](https://www.youtube.com/watch?v=1PCb_1wVJio&ab_channel=TheSecretAgency)
 - WhiteWhale Showcase - [PDF](https://github.com/HackSecret/Spring-2023/blob/main/presentations/Sen%20Com%20Presentation.pdf), [Recording](https://www.youtube.com/watch?v=8ngamf_6Hqw&ab_channel=TheSecretAgency)
-- ShadeSwap Showcase [Recording](https://www.youtube.com/watch?v=vHW0p2mIaHE&ab_channel=TheSecretAgency)
-- Sienna Network Showcase [Recording](https://www.youtube.com/watch?v=AP4FBo-vWcY&ab_channel=TheSecretAgency)
+- ShadeSwap Showcase, [Recording](https://www.youtube.com/watch?v=vHW0p2mIaHE&ab_channel=TheSecretAgency)
+- Sienna Network Showcase, [Recording](https://www.youtube.com/watch?v=AP4FBo-vWcY&ab_channel=TheSecretAgency)
+- Developer Workshop: Secret Business Cards with Query Permits, [Recording](https://www.youtube.com/watch?v=RKEoAA9rkaI&list=PLpQtwXAjSwQAOyk8Cw4FnzKgDk1WAjELG&index=7&ab_channel=TheSecretAgency)
