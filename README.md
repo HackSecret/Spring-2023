@@ -37,3 +37,5 @@ For the entire ruleset please refer to the [official code of conduct](https://dr
 - ShadeSwap Showcase, [Recording](https://www.youtube.com/watch?v=vHW0p2mIaHE&ab_channel=TheSecretAgency)
 - Sienna Network Showcase, [Recording](https://www.youtube.com/watch?v=AP4FBo-vWcY&ab_channel=TheSecretAgency)
 - Developer Workshop: Secret Business Cards with Query Permits, [Recording](https://www.youtube.com/watch?v=RKEoAA9rkaI&list=PLpQtwXAjSwQAOyk8Cw4FnzKgDk1WAjELG&index=7&ab_channel=TheSecretAgency)
+- Masterclass in UI/UX with Secret.js on Secret Network, [Recording](https://www.youtube.com/watch?v=efT-2TuFdp4)
+- Learn how to write your first counter smart contract with Secret University, [Recording](https://www.youtube.com/watch?v=U89hoAzm53I)
