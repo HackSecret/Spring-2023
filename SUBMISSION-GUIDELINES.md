@@ -1,6 +1,6 @@
 ## Guidelines for submitting your HackSecret project
 
-[Submit your HackSecret project here!]()
+[Submit your HackSecret project here!](https://forms.monday.com/forms/5a15c44fd944198da2d319e53d7c0778?r=use1)
 
 ### Submission expectation
 
